@@ -45,6 +45,9 @@ public class CommonLoc {
 		buy.click();
 		System.out.println("Donefully");
 		
+		System.out.println("venom");
+		System.out.println("toxin");
+		
 		
 	}
 
